@@ -15,8 +15,8 @@ require (
 	github.com/antonmedv/expr v1.8.8
 	github.com/apache/openwhisk-client-go v0.0.0-20190915054138-716c6f973eb2
 	github.com/apache/pulsar-client-go v0.1.1
-	github.com/argoproj/pkg v0.10.1
-	github.com/aws/aws-sdk-go v1.35.24
+	github.com/argoproj/pkg v0.13.6
+	github.com/aws/aws-sdk-go v1.44.39
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/bradleyfalzon/ghinstallation/v2 v2.0.3
 	github.com/cloudevents/sdk-go/v2 v2.1.0
@@ -45,7 +45,7 @@ require (
 	github.com/itchyny/gojq v0.12.6
 	github.com/joncalhoun/qson v0.0.0-20200422171543-84433dcd3da0
 	github.com/ktrysmt/go-bitbucket v0.9.32
-	github.com/minio/minio-go/v7 v7.0.15
+	github.com/minio/minio-go/v7 v7.0.29
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/nats-io/go-nats v1.7.2
 	github.com/nats-io/graft v0.0.0-20200605173148-348798afea05
@@ -58,10 +58,10 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 	github.com/slack-go/slack v0.7.4
 	github.com/smartystreets/goconvey v1.7.2
-	github.com/spf13/cobra v1.3.0
+	github.com/spf13/cobra v1.5.0
 	github.com/spf13/viper v1.10.1
 	github.com/streadway/amqp v1.0.0
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.2
 	github.com/stripe/stripe-go v70.15.0+incompatible
 	github.com/tidwall/gjson v1.13.0
 	github.com/tidwall/sjson v1.2.4
@@ -260,7 +260,7 @@ require (
 	gopkg.in/jcmturner/rpc.v0 v0.0.2 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/apiextensions-apiserver v0.22.2 // indirect
 	k8s.io/component-base v0.21.6 // indirect
 	k8s.io/klog v0.3.0 // indirect
