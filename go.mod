@@ -49,8 +49,8 @@ require (
 	github.com/mitchellh/mapstructure v1.4.3
 	github.com/nats-io/go-nats v1.7.2
 	github.com/nats-io/graft v0.0.0-20200605173148-348798afea05
-	github.com/nats-io/nats.go v1.13.0
-	github.com/nats-io/stan.go v0.10.2
+	github.com/nats-io/nats.go v1.16.0
+	github.com/nats-io/stan.go v0.10.3
 	github.com/nsqio/go-nsq v1.1.0
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.11.0
@@ -69,7 +69,7 @@ require (
 	github.com/yuin/gopher-lua v0.0.0-20210529063254-f4c35e4016d9
 	go.uber.org/ratelimit v0.2.0
 	go.uber.org/zap v1.20.0
-	golang.org/x/crypto v0.0.0-20220128200615-198e4374d7ed
+	golang.org/x/crypto v0.0.0-20220722155217-630584e8d5aa
 	google.golang.org/api v0.65.0
 	google.golang.org/grpc v1.43.0
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
