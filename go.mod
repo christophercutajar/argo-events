@@ -29,7 +29,7 @@ require (
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/go-openapi/inflect v0.19.0
-	github.com/go-openapi/spec v0.20.4
+	github.com/go-openapi/spec v0.20.9
 	github.com/go-redis/redis v6.15.8+incompatible
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/go-swagger/go-swagger v0.25.0
@@ -103,8 +103,6 @@ require (
 	github.com/Masterminds/semver/v3 v3.1.1 // indirect
 	github.com/Microsoft/go-winio v0.4.16 // indirect
 	github.com/ProtonMail/go-crypto v0.0.0-20210428141323-04723f9f07d7 // indirect
-	github.com/PuerkitoBio/purell v1.1.1 // indirect
-	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/acomagu/bufpipe v1.0.3 // indirect
 	github.com/ajg/form v1.5.1 // indirect
 	github.com/andres-erbsen/clock v0.0.0-20160526145045-9e14626cd129 // indirect
@@ -133,7 +131,7 @@ require (
 	github.com/go-openapi/analysis v0.19.10 // indirect
 	github.com/go-openapi/errors v0.19.6 // indirect
 	github.com/go-openapi/jsonpointer v0.19.5 // indirect
-	github.com/go-openapi/jsonreference v0.19.6 // indirect
+	github.com/go-openapi/jsonreference v0.20.0 // indirect
 	github.com/go-openapi/loads v0.19.5 // indirect
 	github.com/go-openapi/runtime v0.19.20 // indirect
 	github.com/go-openapi/strfmt v0.19.5 // indirect
