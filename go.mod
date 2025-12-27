@@ -52,7 +52,7 @@ require (
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/mux v1.8.1
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
-	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.3
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.27.4
 	github.com/hamba/avro/v2 v2.30.0
 	github.com/itchyny/gojq v0.12.17
 	github.com/joncalhoun/qson v0.0.0-20200422171543-84433dcd3da0
@@ -86,7 +86,7 @@ require (
 	golang.org/x/crypto v0.46.0
 	golang.org/x/tools v0.40.0
 	google.golang.org/api v0.258.0
-	google.golang.org/grpc v1.77.0
+	google.golang.org/grpc v1.78.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.6.0
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
@@ -337,8 +337,8 @@ require (
 	gomodules.xyz/jsonpatch/v2 v2.4.0 // indirect
 	gomodules.xyz/notify v0.1.1 // indirect
 	google.golang.org/genproto v0.0.0-20250603155806-513f23925822 // indirect
-	google.golang.org/genproto/googleapis/api v0.0.0-20251022142026-3a174f9686a8 // indirect
-	google.golang.org/genproto/googleapis/rpc v0.0.0-20251213004720-97cd9d5aeac2 // indirect
+	google.golang.org/genproto/googleapis/api v0.0.0-20251222181119-0a764e51fe1b // indirect
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20251222181119-0a764e51fe1b // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df // indirect
