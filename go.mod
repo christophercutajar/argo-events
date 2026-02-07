@@ -87,7 +87,7 @@ require (
 	golang.org/x/tools v0.41.0
 	google.golang.org/api v0.265.0
 	google.golang.org/grpc v1.78.0
-	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.6.0
+	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.6.1
 	google.golang.org/protobuf v1.36.11
 	gopkg.in/jcmturner/gokrb5.v5 v5.3.0
 	k8s.io/api v0.35.0
