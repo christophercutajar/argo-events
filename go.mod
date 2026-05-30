@@ -57,7 +57,7 @@ require (
 	github.com/itchyny/gojq v0.12.19
 	github.com/joncalhoun/qson v0.0.0-20200422171543-84433dcd3da0
 	github.com/ktrysmt/go-bitbucket v0.9.100
-	github.com/minio/minio-go/v7 v7.1.0
+	github.com/minio/minio-go/v7 v7.2.0
 	github.com/mitchellh/hashstructure/v2 v2.0.2
 	github.com/mitchellh/mapstructure v1.5.0
 	github.com/nats-io/graft v0.0.0-20220215174245-93d18541496f
@@ -126,7 +126,7 @@ require (
 	github.com/AzureAD/microsoft-authentication-library-for-go v1.6.0 // indirect
 	github.com/DataDog/zstd v1.5.0 // indirect
 	github.com/Masterminds/goutils v1.1.1 // indirect
-	github.com/Masterminds/semver/v3 v3.4.0 // indirect
+	github.com/Masterminds/semver/v3 v3.5.0 // indirect
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/OvyFlash/telegram-bot-api v0.0.0-20241219171906-3f2ca0c14ada // indirect
 	github.com/PagerDuty/go-pagerduty v1.8.0 // indirect
@@ -179,7 +179,6 @@ require (
 	github.com/fxamacker/cbor/v2 v2.9.1 // indirect
 	github.com/go-git/gcfg v1.5.1-0.20230307220236-3a3c6141e376 // indirect
 	github.com/go-git/go-billy/v5 v5.9.0 // indirect
-	github.com/go-ini/ini v1.67.0 // indirect
 	github.com/go-jose/go-jose/v4 v4.1.4 // indirect
 	github.com/go-logr/logr v1.4.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
@@ -273,7 +272,7 @@ require (
 	github.com/oklog/ulid/v2 v2.1.1 // indirect
 	github.com/opsgenie/opsgenie-go-sdk-v2 v1.2.23 // indirect
 	github.com/pelletier/go-toml v1.9.5 // indirect
-	github.com/pelletier/go-toml/v2 v2.2.4 // indirect
+	github.com/pelletier/go-toml/v2 v2.3.1 // indirect
 	github.com/philhofer/fwd v1.2.0 // indirect
 	github.com/pierrec/lz4/v4 v4.1.26 // indirect
 	github.com/pjbgf/sha1cd v0.6.0 // indirect
@@ -292,7 +291,7 @@ require (
 	github.com/santhosh-tekuri/jsonschema/v5 v5.0.0 // indirect
 	github.com/sergi/go-diff v1.3.2-0.20230802210424-5b0b94c5c0d3 // indirect
 	github.com/shopspring/decimal v1.4.0 // indirect
-	github.com/sirupsen/logrus v1.9.3 // indirect
+	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/skeema/knownhosts v1.3.1 // indirect
 	github.com/smartystreets/assertions v1.2.0 // indirect
 	github.com/sourcegraph/conc v0.3.1-0.20240121214520-5f936abd7ae8 // indirect
@@ -349,7 +348,7 @@ require (
 	gopkg.in/evanphx/json-patch.v4 v4.13.0 // indirect
 	gopkg.in/gomail.v2 v2.0.0-20160411212932-81ebce5c23df // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
-	gopkg.in/ini.v1 v1.67.0 // indirect
+	gopkg.in/ini.v1 v1.67.2 // indirect
 	gopkg.in/jcmturner/aescts.v1 v1.0.1 // indirect
 	gopkg.in/jcmturner/dnsutils.v1 v1.0.1 // indirect
 	gopkg.in/jcmturner/goidentity.v2 v2.0.0 // indirect
