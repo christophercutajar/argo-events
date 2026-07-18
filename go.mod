@@ -8,7 +8,7 @@ retract v1.15.0 // Published accidentally.
 
 require (
 	cloud.google.com/go/compute/metadata v0.9.0
-	cloud.google.com/go/pubsub v1.50.4
+	cloud.google.com/go/pubsub v1.51.0
 	dario.cat/mergo v1.0.2
 	github.com/AdaLogics/go-fuzz-headers v0.0.0-20230811130428-ced1acdcaa24
 	github.com/Azure/azure-event-hubs-go/v3 v3.6.2
